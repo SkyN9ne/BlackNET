@@ -21,7 +21,7 @@ include_once APP_PATH . '/logic/loginLogic.php';
     <div class="card card-login mx-auto mt-5">
       <div class="card-header">Login</div>
       <div class="card-body">
-        <form method="POST">
+        <form method="POST" id="login_form">
           <?php if (isset($error)): ?>
             <?php $utils->show_alert($error, "danger", "times-circle");?>
           <?php endif;?>
@@ -63,7 +63,7 @@ include_once APP_PATH . '/logic/loginLogic.php';
     <script src="https://www.google.com/recaptcha/api.js?render=<?php echo $getSettings['recaptchapublic']; ?>"></script>
     <script>
         grecaptcha.ready(function () {
-            grecaptcha.execute('<?php echo $getSettings['recaptchapublic']; ?>', { action: 'contact' }).then(function (token) {
+            grecaptcha.execute('<?php echo $getSettings['recaptchapublic']; ?>', { action: 'login_form' }).then(function (token) {
                 var recaptchaResponse = document.getElementById('recaptchaResponse');
                 recaptchaResponse.value = token;
             });
