@@ -70,7 +70,9 @@ Developed By: Black.Hacker
     + Builder >= 4.0
 
 ## How to Install 🤔
-1. Clone the Repo
+1. Pull the repo from
+  - Main for the stable code
+  - Daily for the latest changes
 2. Compress BlackNET panel folder and upload it to your hosting
 3. Create a database with any name you want
 4. Change the database information in config/config.php
