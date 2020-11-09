@@ -119,42 +119,6 @@ If you have BlackNET installed you need
 [How to Secure BlackNET Panel](https://www.youtube.com/watch?v=P6dBDr9iCD8)
 
 
-## What's New 🆕
-
-```
-v3.6.0
-  1. Replaced GeoPlugin API with GeoLite2
-  2. Added Upload from Disk Command
-  3. Added White Label Settings
-  4. Added SSL/TLS Support
-  5. Added Debug Mode
-  6. Added Software Name in Password Viewer
-  7. Added Dark Mode
-  8. Added Outlook Stealer
-  9. Added Update Client
-  10. Added "Delay Execution" Function
-  11. Custom Data Splitter
-  12. Enhanced HTTP Socket
-  13. Fixed PasswordStealer Bugs
-  14. Fixed LimeLogger UTF-8 Issues
-  15. Cleaner Panel Code
-  16. Better Settings Handling
-  17. Fixed "Password Reset Token" Bug
-  18. Updated reCaptch from v2 to v3
-  19. Updated PHPMailer to 6.1.8
-  20. Updated BlackUpload to v1.5.1
-  21. Small UI Changes
-  22. Faster C&C System
-  23. Less CPU Usage
-  24. Fixed Custom Plugin Bugs
-  25. Fixed Firefox Cookies Stealer
-  26. Updated Custom Plugin System
-  27. Cleaner Database Structure
-  28. Small Installation Changes
-  29. New Logo
-  30. Bugs Fixes
-```
-
 ## Coming Soon ⌛
 ```
 v3.6.1
