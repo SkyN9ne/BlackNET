@@ -160,6 +160,7 @@ v3.6.1
 2. Updating the stub .NET Framework to 4.5
    + Fixing a lot of HTTP Socket Issues and Stabilty
    + More room for new features
+3. Added Documentation
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
