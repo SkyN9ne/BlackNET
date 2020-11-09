@@ -76,11 +76,16 @@ Developed By: Black.Hacker
 2. Compress BlackNET panel folder and upload it to your hosting
 3. Create a database with any name you want
 4. Change the database information in config/config.php
-5. Change files and folders permission to 777
+5. Change all files and folders permission to 777
 6. Make Sure that all DLLs are included in Plugins Folder
-7. Go to install.php fill-up the form and click install to create the botnet tables automatically
-8. Enable a Cron Job for ping.php and remove.php
-
+   + FileSearcher.dll
+   + HistoryStealer.dll
+   + Ionic.Zip.dll
+   + Newtonsoft.Json.dll
+   + PasswordStealer.dll
+   + PluginExample.dll
+7. Go to install.php fill-up the form and click install
+8. Create a cron job for ping.php and remove.php
 
 ## Update notice 📌
 If you have BlackNET installed you need
