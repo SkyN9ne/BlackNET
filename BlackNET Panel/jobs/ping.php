@@ -4,4 +4,4 @@ include_once realpath(__DIR__ . '/../classes/Clients.php');
 
 $clients = new Clients;
 
-$clients->pingClients()
+$clients->pingClients();
