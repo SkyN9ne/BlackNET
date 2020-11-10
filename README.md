@@ -161,6 +161,11 @@ v3.6.1
    + Fixing a lot of HTTP Socket Issues and Stabilty
    + More room for new features
 3. Added Documentation
+4. Fixed 000webhost issue [Tested]
+5. Updated BlackNET Builder to .NET 4.5
+6. Cleaner Code and File Structure
+7. Cleaner Database Structure
+8. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
