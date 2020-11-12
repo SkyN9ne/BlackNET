@@ -166,12 +166,13 @@ v3.6.1
    + More room for new features
 3. Fixed Discord Stealer
 4. Fixed "Stop DDoS" Bug
-5. Added Documentation
-6. Fixed 000webhost issue [Tested]
-7. Updated BlackNET Builder to .NET 4.5
-8. Cleaner Code and File Structure
-9. Cleaner Database Structure
-10. Bug Fixes
+5. Fixed "Remove Uploaded File" Bug
+6. Added Documentation
+7. Fixed 000webhost issue [Tested]
+8. Updated BlackNET Builder to .NET 4.5
+9. Cleaner Code and File Structure
+10. Cleaner Database Structure
+11. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
