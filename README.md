@@ -95,6 +95,10 @@ If you have BlackNET installed you need
 3. Update the new config.php
 4. Run update.php
 
+## 000webhost notice
+
+Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the panel files inside 000webhost filemanager
+
 ## Screenshots 🌌
 
 ![](https://d.top4top.io/p_1761hwi5l1.png)
