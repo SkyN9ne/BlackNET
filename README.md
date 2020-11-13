@@ -160,7 +160,7 @@ v3.6.0
 ## Coming Soon ⌛
 ```
 v3.6.1
-1. More charts and stats
+1. Added more charts and stats
 2. Updated the stub .NET Framework to 4.5
    + Fixed a lot of HTTP Socket Issues and Stabilty
    + More room for new features
