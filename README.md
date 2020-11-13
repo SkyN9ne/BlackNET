@@ -161,19 +161,21 @@ v3.6.0
 ```
 v3.6.1
 1. More charts and stats
-2. Updating the stub .NET Framework to 4.5
-   + Fixing a lot of HTTP Socket Issues and Stabilty
+2. Updated the stub .NET Framework to 4.5
+   + Fixed a lot of HTTP Socket Issues and Stabilty
    + More room for new features
 3. Fixed Discord Stealer
 4. Fixed "Stop DDoS" Bug
 5. Fixed "Delete Files" Bug
 6. Added Documentation
 7. Added GPU and CPU information
-8. Fixed 000webhost issue [Tested]
-9. Updated BlackNET Builder to .NET 4.5
-10. Cleaner Code and File Structure
-11. Cleaner Database Structure
-12. Bug Fixes
+8. Added RAM Size Information
+10. Added "Client Information" Page
+11. Fixed 000webhost issue [Tested]
+12. Updated BlackNET Builder to .NET 4.5
+13. Cleaner Code and File Structure
+14. Cleaner Database Structure
+15. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
