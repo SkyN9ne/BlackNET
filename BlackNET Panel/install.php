@@ -72,7 +72,7 @@ include_once APP_PATH . '/logic/installLogic.php';
             </div>
           </div>
 
-          <?php if (in_array(false, $is_installed) || in_array(false, $is_writable) || PHP_VERSION_ID < 70300): ?>
+          <?php if (in_array(false, $is_installed) || in_array(false, $is_writable) || PHP_VERSION_ID < 70200): ?>
           <button type="submit" class="btn btn-primary btn-block" name="install" disabled>Start Installation</button>
           <?php else: ?>
           <button type="submit" class="btn btn-primary btn-block" name="install">Start Installation</button>
