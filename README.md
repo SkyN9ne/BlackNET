@@ -165,11 +165,13 @@ v3.6.1
    + Fixed a lot of HTTP Socket Issues and Stabilty
    + More room for new features
 3. Fixed Discord Stealer
-4. Fixed "Stop DDoS" Bug
-5. Fixed "Delete Files" Bug
-6. Added Documentation
-7. Added GPU and CPU information
-8. Added RAM Size Information
+4. Added PHPSpreadsheet
+   + Export Logs to Excel file insted of CSV
+5. Fixed "Stop DDoS" Bug
+6. Fixed "Delete Files" Bug
+7. Added Documentation
+8. Added GPU and CPU information
+9. Added RAM Size Information
 10. Added "Client Information" Page
 11. Fixed 000webhost issue [Tested]
 12. Updated BlackNET Builder to .NET 4.5
