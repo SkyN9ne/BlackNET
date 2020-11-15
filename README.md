@@ -10,6 +10,7 @@
  <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/FarisCode511/BlackNET" /></a>
  <a href="#"><img align="center" src="https://badgen.net/badge/color/awesome/pink?icon=awesome&label" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/v/release/FarisCode511/BlackNET" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/repo-size/FarisCode511/BlackNET" /></a>
 </p>
 
 # BlackNET 😈
