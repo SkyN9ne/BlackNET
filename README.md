@@ -179,7 +179,7 @@ v3.7
   12. Updated BlackNET Builder to .NET 4.5
   13. Cleaner Code and File Structure
   14. Cleaner Database Structure
-  15. The panel now depends on composer
+  15. The panel now depends on Composer
   16. Bug Fixes
 ```
 
