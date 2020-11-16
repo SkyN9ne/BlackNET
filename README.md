@@ -160,7 +160,7 @@ v3.6.0
 
 ## Coming Soon ⌛
 ```
-v3.7 [ Codename: Red Phoenix ]
+v3.7
   1. Added more charts and stats
   2. Updated the stub .NET Framework to 4.5
      + Fixed a lot of HTTP Socket Issues and Stabilty
@@ -170,11 +170,12 @@ v3.7 [ Codename: Red Phoenix ]
      + Export Logs to Excel file insted of CSV
   5. Fixed "Stop DDoS" Bug
   6. Fixed "Delete Files" Bug
-  7. Added Documentation
+  7. Added Code Documentation
   8. Added GPU and CPU information
   9. Added RAM Size Information
   10. Added "Client Information" Page
-  11. Fixed 000webhost issue [Tested]
+      + Export Client Informtion to Excel
+  11. Fixed 000webhost issue [ Tested ]
   12. Updated BlackNET Builder to .NET 4.5
   13. Cleaner Code and File Structure
   14. Cleaner Database Structure
