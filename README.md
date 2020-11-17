@@ -177,10 +177,12 @@ v3.7
       + Export Client Informtion to Excel
   11. Fixed 000webhost issue [ Tested ]
   12. Updated BlackNET Builder to .NET 4.5
-  13. Cleaner Code and File Structure
-  14. Cleaner Database Structure
-  15. The panel now depends on Composer
-  16. Bug Fixes
+  13. Modified the Password Stealer
+     + Doesn't require Newtonsoft.Json.dll
+  14. Cleaner Code and File Structure
+  15. Cleaner Database Structure
+  16. The panel now depends on Composer
+  17. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
@@ -189,6 +191,7 @@ v3.7
 - KFC
 - NYANxCAT
 - 0xfd
+- LimerBoy
 
 ## LEGAL DISCLAIMER PLEASE READ! 🛑
 ##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
@@ -199,4 +202,4 @@ This project is licensed under the MIT License
 ## Copyright ©️
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
-Copyright © Black.Hacker - 2020
+Copyright © Black.Hacker - 2021
