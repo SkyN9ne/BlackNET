@@ -13,6 +13,9 @@
  <a href="#"><img align="center" src="https://img.shields.io/github/repo-size/FarisCode511/BlackNET" /></a>
 </p>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFarisCode511%2FBlackNET.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFarisCode511%2FBlackNET?ref=badge_large)
+
 # BlackNET 😈
 Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
 
@@ -202,6 +205,7 @@ v3.7
 This project is licensed under the MIT License
 
 ## Copyright ©️
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFarisCode511%2FBlackNET.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFarisCode511%2FBlackNET?ref=badge_shield)
+
 
 Copyright © Black.Hacker - 2021
