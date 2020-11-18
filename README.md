@@ -8,6 +8,7 @@
  <a href="#"><img align="center" src="https://img.shields.io/maintenance/yes/2020" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/license/FarisCode511/BlackNET" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/FarisCode511/BlackNET" /></a>
+ <a href="#"><img align="center" src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FFarisCode511%2FBlackNET.svg?type=shield"/></a>
  <a href="#"><img align="center" src="https://badgen.net/badge/color/awesome/pink?icon=awesome&label" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/v/release/FarisCode511/BlackNET" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/repo-size/FarisCode511/BlackNET" /></a>
