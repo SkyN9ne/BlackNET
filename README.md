@@ -121,7 +121,6 @@ Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the pane
 
 [How to Secure BlackNET Panel](https://www.youtube.com/watch?v=P6dBDr9iCD8)
 
-
 ## What's New 🆕
 
 ```
@@ -170,19 +169,23 @@ v3.7
      + Export Logs to Excel file insted of CSV
   5. Fixed "Stop DDoS" Bug
   6. Fixed "Delete Files" Bug
-  7. Added Code Documentation
+  7. Added Code Documentation for Developers
   8. Added GPU and CPU information
   9. Added RAM Size Information
-  10. Added "Client Information" Page
+  10. Added Downloader
+  11. Added "Client Information" Page
       + Export Client Informtion to Excel
-  11. Fixed 000webhost issue [ Tested ]
-  12. Updated BlackNET Builder to .NET 4.5
-  13. Modified the Password Stealer
+  12. Fixed 000webhost issue [ Tested ]
+  13. Updated BlackNET Builder to .NET 4.5
+  14. Modified the Password Stealer
      + Doesn't require Newtonsoft.Json.dll
-  14. Cleaner Code and File Structure
-  15. Cleaner Database Structure
-  16. The panel now depends on Composer
-  17. Bug Fixes
+  15. Cleaner Code and File Structure
+  16. Cleaner Database Structure
+  17. The panel now depends on Composer
+  18. Secrity Enhancement
+  19. Small UI changes
+  20. Small Installation Changes
+  21. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
