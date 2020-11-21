@@ -173,19 +173,21 @@ v3.7
   8. Added GPU and CPU information
   9. Added RAM Size Information
   10. Added Downloader
-  11. Added "Client Information" Page
+  11. Modified File Binder
+      + Support Multiple Files
+  12. Added "Client Information" Page
       + Export Client Informtion to Excel
-  12. Fixed 000webhost issue [ Tested ]
-  13. Updated BlackNET Builder to .NET 4.5
-  14. Modified the Password Stealer
+  13. Fixed 000webhost issue [ Tested ]
+  14. Updated BlackNET Builder to .NET 4.5
+  15. Modified the Password Stealer
      + Doesn't require Newtonsoft.Json.dll
-  15. Cleaner Code and File Structure
-  16. Cleaner Database Structure
-  17. The panel now depends on Composer
-  18. Secrity Enhancement
-  19. Small UI changes
-  20. Small Installation Changes
-  21. Bug Fixes
+  16. Cleaner Code and File Structure
+  17. Cleaner Database Structure
+  18. The panel now depends on Composer
+  19. Secrity Enhancement
+  20. Small UI changes
+  21. Small Installation Changes
+  22. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
