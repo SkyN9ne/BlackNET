@@ -185,12 +185,12 @@ v3.7
       + Doesn't require Newtonsoft.Json.dll
   18. Cleaner Code and File Structure
   19. Cleaner Database Structure
-  19. The panel now depends on Composer
-  20. Refactored the classes with the code standard PSR-12
-  20. Secrity Enhancement
-  21. Small UI changes
-  22. Small Installation Changes
-  23. Bug Fixes
+  20. The panel now depends on Composer
+  21. Refactored the classes with the code standard PSR-12
+  22. Secrity Enhancement
+  23. Small UI changes
+  24. Small Installation Changes
+  25. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
