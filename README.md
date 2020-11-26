@@ -172,22 +172,25 @@ v3.7
   7. Added Code Documentation for Developers
   8. Added GPU and CPU information
   9. Added RAM Size Information
-  10. Added Downloader
-  11. Modified File Binder
+  10. Added DropBox Spread
+  11. Added OneDrive Spread
+  12. Added Downloader
+  13. Modified File Binder
       + Support Multiple Files
-  12. Added "Client Information" Page
+  14. Added "Client Information" Page
       + Export Client Informtion to Excel
-  13. Fixed 000webhost issue [ Tested ]
-  14. Updated BlackNET Builder to .NET 4.5
-  15. Modified the Password Stealer
-     + Doesn't require Newtonsoft.Json.dll
-  16. Cleaner Code and File Structure
-  17. Cleaner Database Structure
-  18. The panel now depends on Composer
-  19. Secrity Enhancement
-  20. Small UI changes
-  21. Small Installation Changes
-  22. Bug Fixes
+  15. Fixed 000webhost issue [ Tested ]
+  16. Updated BlackNET Builder to .NET 4.5
+  17. Modified the Password Stealer
+      + Doesn't require Newtonsoft.Json.dll
+  18. Cleaner Code and File Structure
+  19. Cleaner Database Structure
+  19. The panel now depends on Composer
+  20. Refactored the classes with the code standard PSR-12
+  20. Secrity Enhancement
+  21. Small UI changes
+  22. Small Installation Changes
+  23. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
