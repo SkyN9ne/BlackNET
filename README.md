@@ -186,7 +186,7 @@ v3.7
       + Doesn't require Newtonsoft.Json.dll
   19. Cleaner Code and File Structure
   20. Cleaner Database Structure
-  21. Simple Template Engine to hanlde layouts
+  21. Simple Template Engine to handle layouts
   22. The panel now depends on Composer
   23. Refactored the classes with the code standard PSR-12
   24. Secrity Enhancement
