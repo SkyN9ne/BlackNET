@@ -204,7 +204,7 @@ v3.7
 | LimerBoy        | JSONReader   | Firefox Stealer | 
 | Amadeus         | XMR Miner    | XMR Miner       |
 
-## Used Libraries
+## Used Libraries 🤖
 1. PHPMailer
 2. Google reCaptcha
 3. PHPSpreadsheet
@@ -219,6 +219,5 @@ This project is licensed under the MIT License
 
 ## Copyright ©️
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFarisCode511%2FBlackNET.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFarisCode511%2FBlackNET?ref=badge_shield)
-
 
 Copyright © Black.Hacker - 2021
