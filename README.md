@@ -158,7 +158,7 @@ v3.6.0
 ## Coming Soon ⌛
 ```
 v3.7
-  1. Added more charts and stats
+  1. Added more Charts and Stats
   2. Updated the stub .NET Framework to 4.5
      + Fixed a lot of HTTP Socket Issues and Stabilty
      + More room for new features
@@ -174,26 +174,28 @@ v3.7
   11. Added OneDrive Spread
   12. Added Downloader
   13. Added XMR Miner
-  14. Modified File Binder
+  14. Added Export Passwords to Excel
+  15. Modified File Binder
       + Support Multiple Files
-  15. Added "Client Information" Page
+  16. Added "Client Information" Page
       + Export Client Informtion to Excel
-  16. Fixed 000webhost issue [ Tested ]
-  17. Updated BlackNET Builder to .NET 4.5
-  18. Modified the Password Stealer
+  17. Fixed 000webhost issue [ Tested ]
+  18. Updated BlackNET Builder to .NET 4.5
+  19. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  19. Cleaner Code and File Structure
-  20. Cleaner Database Structure
-  21. Simple Template Engine to handle layouts
-  22. The panel now depends on Composer
-  23. Refactored the classes with the code standard PSR-12
-  24. Secrity Enhancement
-  25. Small UI changes
-  26. Small Installation Changes
-  27. Bug Fixes
+  20. Removed Chrome History Stealer
+  21. Cleaner Code and File Structure
+  22. Cleaner Database Structure
+  23. Simple Template Engine to handle layouts
+  24. The panel now depends on Composer
+  25. Code Refactored with the standard PSR-12
+  26. Updated PHPMailer to 6.2.0
+  27. Updated BlackUpload to v1.5.2
+  28. Secrity Enhancement
+  29. Small UI changes
+  30. Small Installation Changes
+  31. Bug Fixes
 ```
-
-![](https://j.top4top.io/p_1768wecce1.png)
 
 ## Used Code 🔧
 | Developer       | Used Code    | Used For      |
