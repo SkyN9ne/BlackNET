@@ -175,26 +175,27 @@ v3.7
   12. Added Downloader
   13. Added XMR Miner
   14. Added Export Passwords to Excel
-  15. Modified File Binder
+  15. Added Client Files Backup Function
+  16. Modified File Binder
       + Support Multiple Files
-  16. Added "Client Information" Page
+  17. Added "Client Information" Page
       + Export Client Informtion to Excel
-  17. Fixed 000webhost issue [ Tested ]
-  18. Updated BlackNET Builder to .NET 4.5
-  19. Modified the Password Stealer
+  18. Fixed 000webhost issue [ Tested ]
+  19. Updated BlackNET Builder to .NET 4.5
+  20. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  20. Removed Chrome History Stealer
-  21. Cleaner Code and File Structure
-  22. Cleaner Database Structure
-  23. Simple Template Engine to handle layouts
-  24. The panel now depends on Composer
-  25. Code Refactored with the standard PSR-12
-  26. Updated PHPMailer to 6.2.0
-  27. Updated BlackUpload to v1.5.2
-  28. Secrity Enhancement
-  29. Small UI changes
-  30. Small Installation Changes
-  31. Bug Fixes
+  21. Removed Chrome History Stealer
+  22. Cleaner Code and File Structure
+  23. Cleaner Database Structure
+  24. Simple Template Engine to handle layouts
+  25. The panel now depends on Composer
+  26. Code Refactored with the standard PSR-12
+  27. Updated PHPMailer to 6.2.0
+  28. Updated BlackUpload to v1.5.2
+  29. Secrity Enhancement
+  30. Small UI changes
+  31. Small Installation Changes
+  32. Bug Fixes
 ```
 
 ## Used Code 🔧
