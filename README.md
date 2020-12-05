@@ -184,18 +184,20 @@ v3.7
   19. Updated BlackNET Builder to .NET 4.5
   20. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  21. Removed Chrome History Stealer
-  22. Cleaner Code and File Structure
-  23. Cleaner Database Structure
-  24. Simple Template Engine to handle layouts
-  25. The panel now depends on Composer
-  26. Code Refactored with the standard PSR-12
-  27. Updated PHPMailer to 6.2.0
-  28. Updated BlackUpload to v1.5.2
-  29. Secrity Enhancement
-  30. Small UI changes
-  31. Small Installation Changes
-  32. Bug Fixes
+  21. Modified the File Searcher
+      + Doesn't require Ionic.zip.dll
+  22. Removed Chrome History Stealer
+  23. Cleaner Code and File Structure
+  24. Cleaner Database Structure
+  25. Simple Template Engine to handle layouts
+  26. The panel now depends on Composer
+  27. Code Refactored with the standard PSR-12
+  28. Updated PHPMailer to 6.2.0
+  29. Updated BlackUpload to v1.5.2
+  30. Secrity Enhancement
+  31. Small UI changes
+  32. Small Installation Changes
+  33. Bug Fixes
 ```
 
 ## Used Code 🔧
