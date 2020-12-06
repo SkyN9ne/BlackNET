@@ -71,7 +71,7 @@ Developed By: Black.Hacker
     + Builder >= 4.0
 
 ## How to Install 🤔
-1. Pull the repo from
+1. Pull the repo or Download the latest release
 2. Compress BlackNET panel folder and upload it to your hosting
 3. Create a database with any name you want
 4. Change the database information in config/config.php
@@ -184,22 +184,23 @@ v3.7
       + Export Client Informtion to Excel
   20. Fixed 000webhost issue [ Tested ]
   21. Updated BlackNET Builder to .NET 4.5
-  22. Modified the Password Stealer
+  22. Redesigned the Builder
+  23. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  23. Modified the File Searcher
+  24. Modified the File Searcher
       + Doesn't require Ionic.zip.dll
-  24. Removed Chrome History Stealer
-  25. Cleaner Code and File Structure
-  26. Cleaner Database Structure
-  27. Simple Template Engine to handle layouts
-  28. The panel now depends on Composer
-  29. Code Refactored with the standard PSR-12
-  30. Updated PHPMailer to 6.2.0
-  31. Updated BlackUpload to v1.5.2
-  32. Secrity Enhancement
-  33. Small UI changes
-  34. Small Installation Changes
-  35. Bug Fixes
+  25. Removed Chrome History Stealer
+  26. Cleaner Code and File Structure
+  27. Cleaner Database Structure
+  28. Simple Template Engine to handle layouts
+  29. The panel now depends on Composer
+  30. Code Refactored with the standard PSR-12
+  31. Updated PHPMailer to 6.2.0
+  32. Updated BlackUpload to v1.5.2
+  33. Secrity Enhancement
+  34. Small UI changes
+  35. Small Installation Changes
+  36. Bug Fixes
 ```
 
 ## Used Code 🔧
