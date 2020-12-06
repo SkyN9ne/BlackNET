@@ -94,6 +94,22 @@ If you have BlackNET installed you need
 3. Update the new config.php
 4. Run update.php
 
+## How to secure BlackNET 🔒
+1. Remove install.php and update.php
+2. Enable Captcha using Google reCaptcha v3
+3. Enable 2FA on your account
+4. Add a security question
+
+## How to use the File Searcher Function 🔍
+1. execute "Get file fom the system" command on the client
+2. use this pattern ``` %Userprofile%|[Here write extension list] ```
+3. Wait until the plugin finish the process and upload the files
+
+Pattern Example:
+```
+%Userprofile%|[jpg,png,docx,pdf,logs,txt,pptx,psd,rtf]
+```
+
 ## 000Webhost notice 🛑
 
 Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the panel files inside 000webhost filemanager
@@ -222,7 +238,7 @@ v3.7
 ## LEGAL DISCLAIMER PLEASE READ! 🛑
 ##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
 
-## License 🔒
+## License 📜
 This project is licensed under the MIT License
 
 ## Copyright ©️
