@@ -13,6 +13,8 @@
  <a href="#"><img align="center" src="https://img.shields.io/github/repo-size/FarisCode511/BlackNET" /></a>
 </p>
 
+---
+
 # BlackNET 😈
 Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
 
