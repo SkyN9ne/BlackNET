@@ -190,35 +190,37 @@ v3.7
   9. Added RAM Size Information
   10. Added DropBox Spread
   11. Added OneDrive Spread
-  12. Added Downloader
+  12. Added Downloader with Mutiple Links
   13. Added XMR Miner
   14. Added Export Passwords to Excel
   15. Added Client Files Backup Function
   16. Added Torrent Seeder
   17. Added Disable Windows Defender
-  18. Modified File Binder
+  18. Added Protect with Critical Process
+  19. Modified File Binder
       + Support Multiple Files
-  19. Added "Client Information" Page
+  20. Added "Client Information" Page
       + Export Client Informtion to Excel
-  20. Fixed 000webhost issue [ Tested ]
-  21. Updated BlackNET Builder to .NET 4.5
-  22. Redesigned the Builder
-  23. Modified the Password Stealer
+  21. Fixed 000webhost issue [ Tested ]
+  22. Updated BlackNET Builder to .NET 4.5
+  23. Redesigned the Builder
+  24. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  24. Modified the File Searcher
+  25. Modified the File Searcher
       + Doesn't require Ionic.zip.dll
-  25. Removed Chrome History Stealer
-  26. Cleaner Code and File Structure
-  27. Cleaner Database Structure
-  28. Simple Template Engine to handle layouts
-  29. The panel now depends on Composer
-  30. Code Refactored with the standard PSR-12
-  31. Updated PHPMailer to 6.2.0
-  32. Updated BlackUpload to v1.5.2
-  33. Secrity Enhancement
-  34. Small UI changes
-  35. Small Installation Changes
-  36. Bug Fixes
+  26. Modified the Icon Changer
+  27. Removed Chrome History Stealer
+  28. Cleaner Code and File Structure
+  29. Cleaner Database Structure
+  30. Simple Template Engine to handle layouts
+  31. The panel now depends on Composer
+  32. Code Refactored with the standard PSR-12
+  33. Updated PHPMailer to 6.2.0
+  34. Updated BlackUpload to v1.5.2
+  35. Secrity Enhancement
+  36. Small UI changes
+  37. Small Installation Changes
+  38. Bug Fixes
 ```
 ![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
 
