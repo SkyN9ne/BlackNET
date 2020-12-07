@@ -220,6 +220,7 @@ v3.7
   35. Small Installation Changes
   36. Bug Fixes
 ```
+![BlackNET New Builder Design](https://i.imgur.com/GDcPB1K.png)
 
 ## Used Code 🔧
 | Developer       | Used Code    | Used For      |
