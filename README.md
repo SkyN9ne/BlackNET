@@ -209,18 +209,19 @@ v3.7
   25. Modified the File Searcher
       + Doesn't require Ionic.zip.dll
   26. Modified the Icon Changer
-  27. Removed Chrome History Stealer
-  28. Cleaner Code and File Structure
-  29. Cleaner Database Structure
-  30. Simple Template Engine to handle layouts
-  31. The panel now depends on Composer
-  32. Code Refactored with the standard PSR-12
-  33. Updated PHPMailer to 6.2.0
-  34. Updated BlackUpload to v1.5.2
-  35. Secrity Enhancement
-  36. Small UI changes
-  37. Small Installation Changes
-  38. Bug Fixes
+  27. Modified "Schedule Task" Function
+  28. Removed Chrome History Stealer
+  29. Cleaner Code and File Structure
+  30. Cleaner Database Structure
+  31. Simple Template Engine to handle layouts
+  32. The panel now depends on Composer
+  33. Code Refactored with the standard PSR-12
+  34. Updated PHPMailer to 6.2.0
+  35. Updated BlackUpload to v1.5.2
+  36. Secrity Enhancement
+  37. Small UI changes
+  38. Small Installation Changes
+  39. Bug Fixes
 ```
 ![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
 
