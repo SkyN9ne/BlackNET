@@ -197,31 +197,32 @@ v3.7
   16. Added Torrent Seeder
   17. Added Disable Windows Defender
   18. Added Protect with Critical Process
-  19. Modified File Binder
+  19. Added Modules Support
+  20. Modified File Binder
       + Support Multiple Files
-  20. Added "Client Information" Page
+  21. Added "Client Information" Page
       + Export Client Informtion to Excel
-  21. Fixed 000webhost issue [ Tested ]
-  22. Updated BlackNET Builder to .NET 4.5
-  23. Redesigned the Builder
-  24. Modified the Password Stealer
+  22. Fixed 000webhost issue [ Tested ]
+  23. Updated BlackNET Builder to .NET 4.5
+  24. Redesigned the Builder
+  25. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  25. Modified the File Searcher
+  26. Modified the File Searcher
       + Doesn't require Ionic.zip.dll
-  26. Modified the Icon Changer
-  27. Modified "Schedule Task" Function
-  28. Removed Chrome History Stealer
-  29. Cleaner Code and File Structure
-  30. Cleaner Database Structure
-  31. Simple Template Engine to handle layouts
-  32. The panel now depends on Composer
-  33. Code Refactored with the standard PSR-12
-  34. Updated PHPMailer to 6.2.0
-  35. Updated BlackUpload to v1.5.2
-  36. Secrity Enhancement
-  37. Small UI changes
-  38. Small Installation Changes
-  39. Bug Fixes
+  27. Modified the Icon Changer
+  28. Modified "Schedule Task" Function
+  29. Removed Chrome History Stealer
+  30. Cleaner Code and File Structure
+  31. Cleaner Database Structure
+  32. Simple Template Engine to handle layouts
+  33. The panel now depends on Composer
+  34. Code Refactored with the standard PSR-12
+  35. Updated PHPMailer to 6.2.0
+  36. Updated BlackUpload to v1.5.2
+  37. Secrity Enhancement
+  38. Small UI changes
+  39. Small Installation Changes
+  40. Bug Fixes
 ```
 ![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
 
