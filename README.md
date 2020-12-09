@@ -190,7 +190,7 @@ v3.7
   9. Added RAM Size Information
   10. Added DropBox Spread
   11. Added OneDrive Spread
-  12. Added Downloader with Mutiple Links
+  12. Added Downloader with Multiple Links
   13. Added XMR Miner
   14. Added Export Passwords to Excel
   15. Added Client Files Backup Function
@@ -198,31 +198,32 @@ v3.7
   17. Added Disable Windows Defender
   18. Added Protect with Critical Process
   19. Added Modules Support
-  20. Modified File Binder
+  20. Keylogger Start On Run [Optional]
+  21. Modified File Binder
       + Support Multiple Files
-  21. Added "Client Information" Page
+  22. Added "Client Information" Page
       + Export Client Informtion to Excel
-  22. Fixed 000webhost issue [ Tested ]
-  23. Updated BlackNET Builder to .NET 4.5
-  24. Redesigned the Builder
-  25. Modified the Password Stealer
+  23. Fixed 000webhost issue [ Tested ]
+  24. Updated BlackNET Builder to .NET 4.5
+  25. Redesigned the Builder
+  26. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  26. Modified the File Searcher
+  27. Modified the File Searcher
       + Doesn't require Ionic.zip.dll
-  27. Modified the Icon Changer
-  28. Modified "Schedule Task" Function
-  29. Removed Chrome History Stealer
-  30. Cleaner Code and File Structure
-  31. Cleaner Database Structure
-  32. Simple Template Engine to handle layouts
-  33. The panel now depends on Composer
-  34. Code Refactored with the standard PSR-12
-  35. Updated PHPMailer to 6.2.0
-  36. Updated BlackUpload to v1.5.2
-  37. Secrity Enhancement
-  38. Small UI changes
-  39. Small Installation Changes
-  40. Bug Fixes
+  28. Modified the Icon Changer
+  29. Modified "Schedule Task" Function
+  30. Removed Chrome History Stealer
+  31. Cleaner Code and File Structure
+  32. Cleaner Database Structure
+  33. Simple Template Engine to handle layouts
+  34. The panel now depends on Composer
+  35. Code Refactored with the standard PSR-12
+  36. Updated PHPMailer to 6.2.0
+  37. Updated BlackUpload to v1.5.2
+  38. Secrity Enhancement
+  39. Small UI changes
+  40. Small Installation Changes
+  41. Bug Fixes
 ```
 ![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
 
