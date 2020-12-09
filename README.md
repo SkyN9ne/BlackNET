@@ -186,45 +186,47 @@ v3.7
   5. Fixed "Stop DDoS" Bug
   6. Fixed "Take Screenshot" Bug
   7. Fixed "Delete Files" Bug
-  8. Added Code Documentation for Developers
-  9. Added GPU and CPU information
-  10. Added RAM Size Information
-  11. Added DropBox Spread
-  12. Added OneDrive Spread
-  13. Added Downloader with Multiple Links
-  14. Added XMR Miner
-  15. Added Export Passwords to Excel
-  16. Added Client Files Backup Function
-  17. Added Torrent Seeder
-  18. Added Disable Windows Defender
-  19. Added Protect with Critical Process
-  20. Added Modules Support
-  21. Keylogger Start On Run [Optional]
-  22. Modified File Binder
+  8. Fixed "Installed Softwares" Bug
+  9. Added Code Documentation for Developers
+  10. Added GPU and CPU information
+  11. Added RAM Size Information
+  12. Added DropBox Spread
+  13. Added OneDrive Spread
+  14. Added Downloader with Multiple Links
+  15. Added XMR Miner
+  16. Added Export Passwords to Excel
+  17. Added Client Files Backup Function
+  18. Added Torrent Seeder
+  19. Added Disable Windows Defender
+  20. Added Protect with Critical Process
+  21. Added Modules Support
+  22. Keylogger Start On Run [Optional]
+  23. Modified File Binder
       + Support Multiple Files
-  23. Added "Client Information" Page
+  24. Added "Client Information" Page
       + Export Client Informtion to Excel
-  24. Fixed 000webhost issue [ Tested ]
-  25. Updated BlackNET Builder to .NET 4.5
-  26. Redesigned the Builder
-  27. Modified the Password Stealer
+  25. Fixed 000webhost issue [ Tested ]
+  26. Updated BlackNET Builder to .NET 4.5
+  27. Redesigned the Builder
+  28. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  28. Modified the File Searcher
+  29. Modified the File Searcher
       + Doesn't require Ionic.zip.dll
-  29. Modified the Icon Changer
-  30. Modified "Schedule Task" Function
-  31. Removed Chrome History Stealer
-  32. Cleaner Code and File Structure
-  33. Cleaner Database Structure
-  34. Simple Template Engine to handle layouts
-  35. The panel now depends on Composer
-  36. Code Refactored with the standard PSR-12
-  37. Updated PHPMailer to 6.2.0
-  38. Updated BlackUpload to v1.5.2
-  39. Secrity Enhancement
-  40. Small UI changes
-  41. Small Installation Changes
-  42. Bug Fixes
+  30. Modified the Icon Changer
+  31. Modified "Schedule Task" Function
+  32. Removed Chrome History Stealer
+  33. Cleaner Code and File Structure
+  34. Cleaner Database Structure
+  35. Simple Template Engine to handle layouts
+  36. The panel now depends on Composer
+  37. Code Refactored with the standard PSR-12
+  38. Updated PHPMailer to 6.2.0
+  39. Updated BlackUpload to v1.5.2
+  40. Secrity Enhancement
+  41. Small UI changes
+  42. Small Installation Changes
+  43. Improved Connection Speed
+  44. Bug Fixes
 ```
 ![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
 
