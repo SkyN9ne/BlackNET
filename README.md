@@ -175,7 +175,7 @@ v3.6.0
 
 ## Coming Soon ⌛
 ```
-v3.7
+v3.7 [13/12/2020]
   1. Added more Charts and Stats
   2. Updated the stub .NET Framework to 4.5
      + Fixed a lot of HTTP Socket Issues and Stabilty
@@ -187,46 +187,47 @@ v3.7
   6. Fixed "Take Screenshot" Bug
   7. Fixed "Delete Files" Bug
   8. Fixed "Installed Softwares" Bug
-  9. Added Code Documentation for Developers
-  10. Added GPU and CPU information
-  11. Added RAM Size Information
-  12. Added DropBox Spread
-  13. Added OneDrive Spread
-  14. Added Downloader with Multiple Links
-  15. Added XMR Miner
-  16. Added Export Passwords to Excel
-  17. Added Client Files Backup Function
-  18. Added Torrent Seeder
-  19. Added Disable Windows Defender
-  20. Added Protect with Critical Process
-  21. Added Modules Support
-  22. Keylogger Start On Run [Optional]
-  23. Modified File Binder
+  9. Fixed Self Destruction Bug
+  10. Added Code Documentation for Developers
+  11. Added GPU and CPU information
+  12. Added RAM Size Information
+  13. Added DropBox Spread
+  14. Added OneDrive Spread
+  15. Added Downloader with Multiple Links
+  16. Added XMR Miner
+  17. Added Export Passwords to Excel
+  18. Added Client Files Backup Function
+  19. Added Torrent Seeder
+  20. Added Disable Windows Defender
+  21. Added Protect with Critical Process
+  22. Added Modules Support
+  23. Keylogger Start On Run [Optional]
+  24. Modified File Binder
       + Support Multiple Files
-  24. Added "Client Information" Page
+  25. Added "Client Information" Page
       + Export Client Informtion to Excel
-  25. Fixed 000webhost issue [ Tested ]
-  26. Updated BlackNET Builder to .NET 4.5
-  27. Redesigned the Builder
-  28. Modified the Password Stealer
+  26. Fixed 000webhost issue [ Tested ]
+  27. Updated BlackNET Builder to .NET 4.5
+  28. Redesigned the Builder
+  29. Modified the Password Stealer
       + Doesn't require Newtonsoft.Json.dll
-  29. Modified the File Searcher
+  30. Modified the File Searcher
       + Doesn't require Ionic.zip.dll
-  30. Modified the Icon Changer
-  31. Modified "Schedule Task" Function
-  32. Removed Chrome History Stealer
-  33. Cleaner Code and File Structure
-  34. Cleaner Database Structure
-  35. Simple Template Engine to handle layouts
-  36. The panel now depends on Composer
-  37. Code Refactored with the standard PSR-12
-  38. Updated PHPMailer to 6.2.0
-  39. Updated BlackUpload to v1.5.2
-  40. Secrity Enhancement
-  41. Small UI changes
-  42. Small Installation Changes
-  43. Improved Connection Speed
-  44. Bug Fixes
+  31. Modified the Icon Changer
+  32. Modified "Schedule Task" Function
+  33. Removed Chrome History Stealer
+  34. Cleaner Code and File Structure
+  35. Cleaner Database Structure
+  36. Simple Template Engine to handle layouts
+  37. The panel now depends on Composer
+  38. Code Refactored with the standard PSR-12
+  39. Updated PHPMailer to 6.2.0
+  40. Updated BlackUpload to v1.5.2
+  41. Secrity Enhancement
+  42. Small UI changes
+  43. Small Installation Changes
+  44. Improved Connection Speed
+  45. Bug Fixes
 ```
 ![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
 
