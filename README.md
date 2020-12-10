@@ -175,7 +175,7 @@ v3.6.0
 
 ## Coming Soon ⌛
 ```
-v3.7 [13/12/2020]
+v3.7 [11/12/2020]
   1. Added more Charts and Stats
   2. Updated the stub .NET Framework to 4.5
      + Fixed a lot of HTTP Socket Issues and Stabilty
