@@ -52,25 +52,29 @@ Developed By: Black.Hacker
      + CMD (Command Prompt)
      + Powershell
  13. Send Spam Emails
- 14. Keylogger
- 15. Execute Scripts
- 16. Execute Custom Plugins
- 17. Computer Operations
+ 14. Run XMR Miner
+ 15. Seed a Torrent File
+     + From Disk
+     + From URL
+ 16. Keylogger
+ 17. Execute Scripts
+ 18. Execute Custom Plugins
+ 19. Computer Operations
      + Restart
      + Shutdown
      + Logout
- 18. Bitcoin Wallet Stealer
- 19. Uninstall Client
- 20. Move Client
- 21. Blacklist Client
- 23. Update Client
- 24. Close Client
+ 20. Bitcoin Wallet Stealer
+ 21. Uninstall Client
+ 22. Move Client
+ 23. Blacklist Client
+ 24. Update Client
+ 25. Close Client
 
 ## Requirements ⚡️
 1. PHP >=  7.3
 2. NET Framework
-    + Stub >= 2.0
-    + Builder >= 4.0
+    + Stub >= 4.5
+    + Builder >= 4.5
 
 ## How to Install 🤔
 1. Pull the repo or Download the latest release
@@ -83,11 +87,14 @@ Developed By: Black.Hacker
    + FileSearcher.dll
    + PasswordStealer.dll
    + PluginExample.dll
+   + xmrig.exe
 8. Go to install.php fill-up the form and click install
 9. Create a cron job for ping.php and remove.php
 
 ## Update notice 📌
 If you have BlackNET installed you need
+
+#### BEFORE UPDATING PLEASE MAKE A COPY OF YOUR DATABASE OR YOU WILL LOSE YOUR CLIENTS
 
 1. Make a copy of config.php
 2. Upload the new files
@@ -118,7 +125,7 @@ Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the pane
 
 ![](https://d.top4top.io/p_1761hwi5l1.png)
 
-![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
+![](https://i.imgur.com/3T4CRDk.gif)
 
 ![](https://j.top4top.io/p_1738jsi5f2.png)
 
