@@ -129,7 +129,7 @@ Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the pane
 
 ![](https://j.top4top.io/p_1738jsi5f2.png)
 
-![](https://e.top4top.io/p_17686ahd51.png)
+![](https://j.top4top.io/p_1806nyr9c1.png)
 
 ## YouTube Tutorials 📹
 [How to install BlackNET v3.6.0](https://youtu.be/C0YRoLXc26w)
