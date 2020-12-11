@@ -77,16 +77,14 @@ Developed By: Black.Hacker
 2. Compress BlackNET panel folder and upload it to your hosting
 3. Create a database with any name you want
 4. Change the database information in config/config.php
-5. Change all files and folders permission to 777
-6. Make Sure that all DLLs are included in Plugins Folder
+5. Change the "Panel URL" with your url in config/config.php
+6. Change all files and folders permission to 777
+7. Make Sure that all DLLs are included in Plugins Folder
    + FileSearcher.dll
-   + HistoryStealer.dll
-   + Ionic.Zip.dll
-   + Newtonsoft.Json.dll
    + PasswordStealer.dll
    + PluginExample.dll
-7. Go to install.php fill-up the form and click install
-8. Create a cron job for ping.php and remove.php
+8. Go to install.php fill-up the form and click install
+9. Create a cron job for ping.php and remove.php
 
 ## Update notice 📌
 If you have BlackNET installed you need
@@ -120,7 +118,7 @@ Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the pane
 
 ![](https://d.top4top.io/p_1761hwi5l1.png)
 
-![](https://e.top4top.io/p_17619zn222.png)
+![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
 
 ![](https://j.top4top.io/p_1738jsi5f2.png)
 
@@ -140,42 +138,7 @@ Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the pane
 ## What's New 🆕
 
 ```
-v3.6.0
-  1. Replaced GeoPlugin API with GeoLite2
-  2. Added Upload from Disk Command
-  3. Added White Label Settings
-  4. Added SSL/TLS Support
-  5. Added Debug Mode
-  6. Added Software Name in Password Viewer
-  7. Added Dark Mode
-  8. Added Outlook Stealer
-  9. Added Update Client
-  10. Added "Delay Execution" Function
-  11. Custom Data Splitter
-  12. Enhanced HTTP Socket
-  13. Fixed PasswordStealer Bugs
-  14. Fixed LimeLogger UTF-8 Issues
-  15. Cleaner Panel Code
-  16. Better Settings Handling
-  17. Fixed "Password Reset Token" Bug
-  18. Updated reCaptch from v2 to v3
-  19. Updated PHPMailer to 6.1.8
-  20. Updated BlackUpload to v1.5.1
-  21. Small UI Changes
-  22. Faster C&C System
-  23. Less CPU Usage
-  24. Fixed Custom Plugin Bugs
-  25. Fixed Firefox Cookies Stealer
-  26. Updated Custom Plugin System
-  27. Cleaner Database Structure
-  28. Small Installation Changes
-  29. New Logo
-  30. Bugs Fixes
-```
-
-## Coming Soon ⌛
-```
-v3.7 [11/12/2020]
+v3.7
   1. Added more Charts and Stats
   2. Updated the stub .NET Framework to 4.5
      + Fixed a lot of HTTP Socket Issues and Stabilty
@@ -229,7 +192,9 @@ v3.7 [11/12/2020]
   44. Improved Connection Speed
   45. Bug Fixes
 ```
-![BlackNET New Builder Design](https://i.imgur.com/3T4CRDk.gif)
+
+## Coming Soon ⌛
+
 
 ## Used Code 🔧
 | Developer       | Used Code    | Used For      |
