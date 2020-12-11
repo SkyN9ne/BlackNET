@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <a href="#"><img align="center" src="https://img.shields.io/maintenance/yes/2020" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/maintenance/no/2020" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/license/FarisCode511/BlackNET" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/FarisCode511/BlackNET" /></a>
  <a href="#"><img align="center" src="https://badgen.net/badge/color/awesome/pink?icon=awesome&label" /></a>
