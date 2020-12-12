@@ -120,7 +120,7 @@ Pattern Example:
 
 Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the panel files inside 000webhost filemanager
 
-## Documentation
+## Documentation 📖
 
 If you want to develope or reuse the panel you can take a look at the code document to understand some of the functions and how to use them
 
@@ -224,7 +224,7 @@ v3.7
 ## LEGAL DISCLAIMER PLEASE READ! 🛑
 ##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
 
-## License 📜
+## License ⚖️
 This project is licensed under the MIT License
 
 ## Copyright ©️
