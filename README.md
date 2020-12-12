@@ -33,8 +33,8 @@ Developed By: Black.Hacker
     + Start DDOS
     + Stop DDOS
  3. Open Webpage
-     + Visible
-     + Hidden
+    + Visible
+    + Hidden
  4. Show MessageBox
  5. Take Screenshot
  6. Steal Firefox Cookies
@@ -46,29 +46,28 @@ Developed By: Black.Hacker
     + Outlook
  8. Steal Chrome Cookies
  9. Steal Discord Token
- 10. Steal Chrome History
- 11. Steal Clipboard Data
- 12. Execute Shell Commands
+ 10. Steal Clipboard Data
+ 11. Execute Shell Commands
      + CMD (Command Prompt)
      + Powershell
- 13. Send Spam Emails
- 14. Run XMR Miner
- 15. Seed a Torrent File
+ 12. Send Spam Emails
+ 13. Run XMR Miner
+ 14. Seed a Torrent File
      + From Disk
      + From URL
- 16. Keylogger
- 17. Execute Scripts
- 18. Execute Custom Plugins
- 19. Computer Operations
+ 15. Keylogger
+ 16. Execute Scripts
+ 17. Execute Custom Plugins
+ 18. Computer Operations
      + Restart
      + Shutdown
      + Logout
- 20. Bitcoin Wallet Stealer
- 21. Uninstall Client
- 22. Move Client
- 23. Blacklist Client
- 24. Update Client
- 25. Close Client
+ 19. Bitcoin Wallet Stealer
+ 20. Uninstall Client
+ 21. Move Client
+ 22. Blacklist Client
+ 23. Update Client
+ 24. Close Client
 
 ## Requirements ⚡️
 1. PHP >=  7.3
@@ -83,7 +82,7 @@ Developed By: Black.Hacker
 4. Change the database information in config/config.php
 5. Change the "Panel URL" with your url in config/config.php
 6. Change all files and folders permission to 777
-7. Make Sure that all DLLs are included in Plugins Folder
+7. Make Sure that all dependencies are included in "plugins" folder
    + FileSearcher.dll
    + PasswordStealer.dll
    + PluginExample.dll
@@ -94,7 +93,7 @@ Developed By: Black.Hacker
 ## Update notice 📌
 If you have BlackNET installed you need
 
-#### BEFORE UPDATING PLEASE MAKE A COPY OF YOUR DATABASE OR YOU WILL LOSE YOUR CLIENTS
+#### WARNING: BEFORE UPDATING PLEASE MAKE A COPY OF YOUR DATABASE OR YOU WILL LOSE YOUR CLIENTS
 
 1. Make a copy of config.php
 2. Upload the new files
@@ -199,9 +198,6 @@ v3.7
   44. Improved Connection Speed
   45. Bug Fixes
 ```
-
-## Coming Soon ⌛
-
 
 ## Used Code 🔧
 | Developer       | Used Code    | Used For      |
