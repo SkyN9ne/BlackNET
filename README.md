@@ -137,9 +137,7 @@ If you want to develope or reuse the panel you can take a look at the code docum
 ![](https://j.top4top.io/p_1806nyr9c1.png)
 
 ## YouTube Tutorials 📹
-[How to install BlackNET v3.6.0](https://youtu.be/C0YRoLXc26w)
-
-[How to update BlackNET to v3.6.0](https://youtu.be/IaZ3ZA-83UU)
+[How to install BlackNET v3.7.0](https://youtu.be/0IU_64yfL80)
 
 [How to obfuscate BlackNET](https://www.youtube.com/watch?v=hzC8_UYGor0)
 
